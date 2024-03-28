@@ -4,7 +4,7 @@
         "Name": "DL Gamba",
         "Description": "Black Jack free Plugin",
         "InternalName": "DLGamba",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/byteknown/DLGambaStaff",
         "ApplicableVersion": "any",
         "Tags": [
